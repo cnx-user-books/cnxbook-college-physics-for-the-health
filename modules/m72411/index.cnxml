@@ -1,0 +1,211 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Acceleration</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m72411</md:content-id>
+  <md:title>Acceleration</md:title>
+  <md:abstract><list>
+<item>Define and distinguish between instantaneous acceleration, average acceleration, and deceleration.</item>
+<item>Calculate acceleration given initial time, initial velocity, final time, and final velocity.</item>
+</list></md:abstract>
+  <md:uuid>4b925147-9073-45eb-a1f9-7f8ea363a8b7</md:uuid>
+</metadata>
+
+<content>
+      <figure id="import-auto-id3514068"><media id="import-auto-id3542048" alt="An airplane flying very low to the ground, just above a beach full of onlookers, as it comes in for a landing.">
+          <image mime-type="image/jpg" src="../../media/Figure_02_04_00.jpg" width="300"/>
+        </media>
+
+      <caption>A plane decelerates, or slows down, as it comes in for landing in St. Maarten. Its acceleration is opposite in direction to its velocity. (credit: Steve Conry, Flickr)</caption></figure><para id="import-auto-id4183319">In everyday conversation, to accelerate means to speed up. The accelerator in a car can in fact cause it to speed up. The greater the <term id="import-auto-id1298945">acceleration</term>, the greater the change in velocity over a given time. The formal definition of acceleration is consistent with these notions, but more inclusive.</para>
+      <note id="fs-id4053362"><label/>
+      <title>Average Acceleration</title>
+      <para id="import-auto-id1851238"><term id="import-auto-id2580108">Average Acceleration</term> is <emphasis effect="italics">the rate at which velocity changes</emphasis>, </para>
+      <equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4040806"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>v</m:mi><m:mn>f</m:mn></m:msub><m:mrow><m:mrow/><m:mo stretchy="false">−</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}= {  {Δv}  over  {Δt} } = {  {v"" lSub { size 8{f} }  - v rSub { size 8{0} } }  over  {t rSub { size 8{f} }  - t rSub { size 8{0} } } } } {}</m:annotation></m:semantics></m:math></equation><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id3541636">where <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}} {}</m:annotation></m:semantics></m:math></emphasis> is average acceleration, <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{v} {}</m:annotation></m:semantics></m:math></emphasis> is velocity, and <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>t</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{t} {}</m:annotation></m:semantics></m:math></emphasis> is time. (The bar over the <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> means <emphasis effect="italics">average</emphasis> acceleration.)</para></note>
+      <para id="import-auto-id4162585">Because acceleration is velocity in m/s divided by time in s, the SI units for acceleration are <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>, meters per second squared or meters per second per second, which literally means by how many meters per second the velocity changes every second.</para>
+      <para id="import-auto-id3526102">Recall that velocity is a vector—it has both magnitude and direction. This means that a change in velocity can be a change in magnitude (or speed), but it can also be a change in <emphasis effect="italics">direction</emphasis>. For example, if a car turns a corner at constant speed, it is accelerating because its direction is changing. The quicker you turn, the greater the acceleration. So there is an acceleration when velocity changes either in magnitude (an increase or decrease in speed) or in direction, or both.</para><note id="fs-id3524141"><label/>
+      <title>Acceleration as a Vector</title>
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1714914">Acceleration is a vector in the same direction as the <emphasis effect="italics">change</emphasis> in velocity, <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{Dv} {}</m:annotation></m:semantics></m:math>. Since velocity is a vector, it can change either in magnitude or in direction. Acceleration is therefore a change in either speed or direction, or both. </para></note>
+      <para id="import-auto-id4075467">Keep in mind that although acceleration is in the direction of the <emphasis effect="italics">change</emphasis> in velocity, it is not always in the direction of <emphasis effect="italics">motion</emphasis>. When an object slows down, its acceleration is opposite to the direction of its motion. This is known as <term id="import-auto-id3583719">deceleration</term>. </para><figure id="import-auto-id1515319"><media id="import-auto-id3505197" alt="A subway train arriving at a station. A velocity vector arrow points along the track away from the train. An acceleration vector arrow points along the track toward the train.">
+          <image mime-type="image/jpg" src="../../media/Figure_02_04_00a.jpg" width="300"/>
+        </media>
+
+      <caption>A subway train in Sao Paulo, Brazil, decelerates as it comes into a station. It is accelerating in a direction opposite to its direction of motion. (credit: Yusuke Kawasaki, Flickr)</caption></figure><note id="fs-id1389422"><label/>
+      <title>Misconception Alert: Deceleration vs. Negative Acceleration</title>
+      <para id="import-auto-id2023160">Deceleration always refers to acceleration in the direction opposite to the direction of the velocity. Deceleration always reduces speed. Negative acceleration, however, is acceleration <emphasis effect="italics">in the negative direction in the chosen coordinate system</emphasis>. Negative acceleration may or may not be deceleration, and deceleration may or may not be considered negative acceleration. For example, consider <link target-id="import-auto-id3579626"/>.</para><figure id="import-auto-id3579626"><media id="import-auto-id1432936" alt="Four separate diagrams of cars moving. Diagram a: A car moving toward the right. A velocity vector arrow points toward the right. An acceleration vector arrow also points toward the right. Diagram b: A car moving toward the right in the positive x direction. A velocity vector arrow points toward the right. An acceleration vector arrow points toward the left. Diagram c: A car moving toward the left. A velocity vector arrow points toward the left. An acceleration vector arrow points toward the right. Diagram d: A car moving toward the left. A velocity vector arrow points toward the left. An acceleration vector arrow also points toward the left.">
+          <image mime-type="image/jpg" src="../../media/Figure_02_04_00b.jpg" width="350"/>
+        </media>
+
+      <caption>(a) This car is speeding up as it moves toward the right. It therefore has positive acceleration in our coordinate system. (b) This car is slowing down as it moves toward the right. Therefore, it has negative acceleration in our coordinate system, because its acceleration is toward the left. The car is also decelerating: the direction of its acceleration is opposite to its direction of motion. (c) This car is moving toward the left, but slowing down over time. Therefore, its acceleration is positive in our coordinate system because it is toward the right. However, the car is decelerating because its acceleration is opposite to its motion. (d) This car is speeding up as it moves toward the left. It has negative acceleration because it is accelerating toward the left. However, because its acceleration is in the same direction as its motion, it is speeding up (<emphasis effect="italics">not</emphasis> decelerating).</caption></figure></note>
+
+      <example id="fs-id2013623">
+      <title>Calculating Acceleration: A Racehorse Leaves the Gate</title>
+      <para id="import-auto-id1706908">A racehorse coming out of the gate accelerates from rest to a velocity of 15.0 m/s due west in 1.80 s. What is its average acceleration?</para>
+      <figure id="import-auto-id1806246">
+        <media id="import-auto-id3524332" alt="Two racehorses running toward the left.">
+          <image mime-type="image/jpg" src="../../media/graphics4-083a.jpg" width="300"/>
+        </media>
+<caption>(credit: Jon Sullivan, PD Photo.org)</caption>
+      </figure>
+      <para id="import-auto-id3522271">
+        <emphasis>Strategy</emphasis>
+      </para>
+      <para id="import-auto-id3584075">First we draw a sketch and assign a coordinate system to the problem. This is a simple problem, but it always helps to visualize it. Notice that we assign east as positive and west as negative. Thus, in this case, we have negative velocity.</para>
+
+            <figure id="import-auto-id1464243"><media id="import-auto-id1464244" alt="An acceleration vector arrow pointing west, in the negative x direction, labeled with a equals question mark. A velocity vector arrow also pointing toward the left, with initial velocity labeled as 0 and final velocity labeled as negative fifteen point 0 meters per second.">
+                <image mime-type="image/jpg" src="../../media/Figure_02_03_01a.jpg" width="350"/>
+              </media>
+            </figure><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id1652039">We can solve this problem by identifying <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> from the given information and then calculating the average acceleration directly from the equation <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:msub><m:mi>v</m:mi><m:mn>f</m:mn></m:msub><m:mrow><m:mrow/><m:mo stretchy="false">−</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mrow><m:mrow><m:msub><m:mi>t</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">−</m:mo><m:msub><m:mi>t</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub></m:mrow></m:mfrac></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>.</para><para id="import-auto-id1552403">
+        <emphasis>Solution</emphasis>
+      </para>
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4180421">1. Identify the knowns. <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>0</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:msub><m:mi>v</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow><m:mtext>.0 m/s</m:mtext></m:mrow></m:mrow></m:mrow></m:semantics></m:math> (the negative sign indicates direction toward the west), <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi><m:mo stretchy="false">=</m:mo><m:mn>1</m:mn></m:mrow><m:mtext>.80 s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id4131827">2. Find the change in velocity. Since the horse is going from zero to <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo></m:mrow><m:mtext>15.0 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - "15" "." 0`"m/s"} {}</m:annotation></m:semantics></m:math>, its change in velocity equals its final velocity: <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi><m:mo stretchy="false">=</m:mo><m:msub><m:mi>v</m:mi><m:mrow><m:mn>f</m:mn></m:mrow></m:msub></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow></m:mrow><m:mtext>.0 m/s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>.</para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2401166">3. Plug in the known values (<m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> and <m:math><m:semantics><m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mrow></m:semantics></m:math>) and solve for the unknown <m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>. </para><equation xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2400983"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover><m:mo stretchy="false">=</m:mo><m:mfrac><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">v</m:mi></m:mrow><m:mrow><m:mn>Δ</m:mn><m:mi fontstyle="italic">t</m:mi></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mspace width="0.15em"/><m:mfrac><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>15</m:mtext></m:mrow><m:mtext>.0 m/s </m:mtext></m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.80 s</m:mtext></m:mrow></m:mfrac></m:mrow><m:mo stretchy="false">=</m:mo><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>8</m:mn></m:mrow></m:mrow><m:mtext>.33 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mo>.</m:mo></m:mrow><m:mrow/></m:mrow></m:semantics></m:math></equation><para id="import-auto-id2410828">
+        <emphasis>Discussion</emphasis>
+      </para>
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2562743">The negative sign for acceleration indicates that acceleration is toward the west. An acceleration of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.33 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> due west means that the horse increases its velocity by 8.33 m/s due west each second, that is, 8.33 meters per second per second, which we write as <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.33 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 "." "33"`"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. This is truly an average acceleration, because the ride is not smooth. We shall see later that an acceleration of this magnitude would require the rider to hang on with a force nearly equal to his weight.</para></example>
+<section id="fs-id1759915">
+<title/><example id="fs-id4015260"><para id="eip"> </para></example></section>
+<section id="fs-id1810991">
+<exercise id="fs-id4121834" type="check-understanding"><label/><title>Check Your Understanding</title>
+<problem id="fs-id4019138">
+      <para id="import-auto-id2338714">An airplane lands on a runway traveling east. Describe its acceleration.</para></problem>
+<solution id="fs-id4071605">
+      <para id="import-auto-id2338718">If we take east to be positive, then the airplane has negative acceleration, as it is accelerating toward the west. It is also decelerating: its acceleration is opposite in direction to its velocity.</para>
+      </solution>
+      </exercise><note id="fs-id4128084" class="interactive"><title>PhET Explorations: Moving Man Simulation</title><para id="import-auto-id2338731">Learn about position, velocity, and acceleration graphs. Move the little man back and forth with the mouse and plot his motion. Set the position, velocity, or acceleration and let the simulation move the man for you. <newline/>
+<figure id="eip-idm812698640"><media id="Phet_module_2.4" alt="">
+<iframe width="660" height="371.4" src="https://archive.cnx.org/specials/e2ca52af-8c6b-450e-ac2f-9300b38e8739/moving-man/"/>
+</media></figure>
+</para></note></section>
+      <section xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id4131829" class="section-summary"><title>Section Summary</title><list id="fs-id1644411"><item id="import-auto-id2412645">Acceleration is the rate at which velocity changes. In symbols, <term>average acceleration</term> <m:math><m:semantics><m:mrow><m:mrow><m:mover accent="true"><m:mi>a</m:mi><m:mo stretchy="true">-</m:mo></m:mover></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}} {}</m:annotation></m:semantics></m:math> is
+      <equation id="import-auto-id2412659"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mover accent="true">
+                        <m:mi>a</m:mi>
+                        <m:mo stretchy="true">-</m:mo>
+                      </m:mover>
+                      <m:mo stretchy="false">=</m:mo><m:mfrac>
+                      <m:mrow>
+                        <m:mn>Δ</m:mn>
+                          <m:mi>v</m:mi>
+                      </m:mrow>
+                     <m:mrow><m:mn>Δ</m:mn> <m:mi fontstyle="italic">t</m:mi></m:mrow>
+                    </m:mfrac>
+                    </m:mrow>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mfrac>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mrow>
+                            <m:mn>f</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msub>
+                          <m:mi>v</m:mi>
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                      </m:mrow>
+                      <m:mrow>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mrow>
+                            <m:mn>f</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                        <m:mo stretchy="false">−</m:mo>
+                        <m:msub>
+                          <m:mi>t</m:mi>
+                          <m:mrow>
+                            <m:mn>0</m:mn>
+                          </m:mrow>
+                        </m:msub>
+                      </m:mrow>
+                    </m:mfrac>
+                  </m:mrow>
+                  <m:mtext>.</m:mtext>
+                </m:mrow>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{ { bar  {a}}= {  {Δv}  over  {Δt} } = {  {v rSub { size 8{f} }  - v rSub { size 8{0} } }  over  {t rSub { size 8{f} }  - t rSub { size 8{0} } } }  "." } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </equation></item>
+      <item id="import-auto-id2412738">The SI unit for acceleration is <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</item>
+      <item id="import-auto-id2412758">Acceleration is a vector, and thus has a both a magnitude and direction. </item>
+      <item id="import-auto-id2412770">Acceleration can be caused by either a change in the magnitude or the direction of the velocity.</item>
+      <item id="import-auto-id2412772">Instantaneous acceleration <m:math><m:semantics><m:mrow><m:mrow><m:mi>a</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a} {}</m:annotation></m:semantics></m:math> is the acceleration at a specific instant in time. </item>
+      <item id="import-auto-id2412729">Deceleration is an acceleration with a direction opposite to that of the velocity.</item>
+      </list></section><section id="fs-id3526388" class="conceptual-questions" type="conceptual-questions"><title>Conceptual Questions</title>
+      <exercise id="fs-id3526394" type="conceptual-questions"><problem id="fs-id3526396">
+<para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2412712" fo:font-weight="normal">Is it possible for speed to be constant while acceleration is not zero? Give an example of such a situation. </para>
+      </problem></exercise>
+      <exercise id="fs-id4016173" type="conceptual-questions"><problem id="fs-id4016175">
+<para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2297558" fo:font-weight="normal">Is it possible for velocity to be constant while acceleration is not zero? Explain. </para>
+      </problem></exercise>
+      <exercise id="fs-id3514238" type="conceptual-questions"><problem id="fs-id3514240">
+<para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2297574" fo:font-weight="normal">Give an example in which velocity is zero yet acceleration is not. </para>
+      </problem></exercise>
+      <exercise id="fs-id1765962" type="conceptual-questions"><problem id="fs-id1765964">
+<para id="import-auto-id2297593">If a subway train is moving to the left (has a negative velocity) and then comes to a stop, what is the direction of its acceleration? Is the acceleration positive or negative? </para>
+      </problem></exercise>
+      <exercise id="fs-id1780345" type="conceptual-questions"><problem id="fs-id1780347">
+<para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2297609" fo:font-weight="normal">Plus and minus signs are used in one-dimensional motion to indicate direction. What is the sign of an acceleration that reduces the magnitude of a negative velocity? Of a positive velocity? </para>
+      </problem></exercise>
+      </section>
+      <section id="fs-id4129894" type="problems-exercises" class="problems-exercises"><title>Problems &amp; Exercises</title>
+      <exercise id="fs-id4129901" type="problems-exercises"><problem id="fs-id4129903">
+<para xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2297634" fo:font-weight="normal">A cheetah can accelerate from rest to a speed of 30.0 m/s in 7.00 s. What is its acceleration?</para>
+      </problem>
+<solution id="fs-id4059926">
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" id="import-auto-id2297647" fo:font-weight="normal"><m:math>
+          <m:semantics>
+            <m:mrow>
+              <m:mrow>
+                <m:mrow>
+                  <m:mn>4</m:mn>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>29</m:mtext>
+                <m:mspace width="0.25em"/>
+                  <m:msup>
+                    <m:mtext>m/s</m:mtext>
+                    <m:mrow>
+                      <m:mn>2</m:mn>
+                    </m:mrow>
+                  </m:msup>
+                </m:mrow>
+              </m:mrow>
+              <m:mrow/>
+            </m:mrow>
+            <m:annotation encoding="StarMath 5.0"> size 12{4 "." "29"`"m/s" rSup { size 8{2} } } {}</m:annotation>
+          </m:semantics>
+        </m:math>
+      </para></solution>
+      </exercise>
+      <exercise xmlns:m="http://www.w3.org/1998/Math/MathML" id="fs-id4035192" type="problems-exercises"><problem id="fs-id4035194">
+<para id="eip-id3627767"><emphasis effect="bold">Professional Application</emphasis></para>
+      <para id="import-auto-id2297677">Dr. John Paul Stapp was U.S. Air Force officer who studied the effects of extreme deceleration on the human body. On December 10, 1954, Stapp rode a rocket sled, accelerating from rest to a top speed of 282 m/s (1015 km/h) in 5.00 s, and was brought jarringly back to rest in only 1.40 s! Calculate his (a) acceleration and (b) deceleration. Express each in multiples of <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>  <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mtext>80 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow></m:semantics></m:math> by taking its ratio to the acceleration of gravity.</para></problem></exercise><exercise id="fs-id2299988" type="problems-exercises"><problem id="fs-id2299990">
+<para id="import-auto-id2412280">A commuter backs her car out of her garage with an acceleration of <m:math xmlns:m="http://www.w3.org/1998/Math/MathML"><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>40 m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "40 m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. (a) How long does it take her to reach a speed of 2.00 m/s? (b) If she then brakes to a stop in 0.800 s, what is her deceleration?</para>
+      </problem>
+<solution id="fs-id4124023">
+      <para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2297752">(a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mtext>43 s</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." "43"`s} {}</m:annotation></m:semantics></m:math></para><para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2412322">(b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>2</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>50</m:mtext><m:mspace width="0.25em"/><m:msup><m:mtext>m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ - 2 "." "50"`"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para></solution>
+      </exercise>
+      <exercise id="fs-id4124470" type="problems-exercises"><problem id="fs-id4124472">
+<para xmlns:m="http://www.w3.org/1998/Math/MathML" id="import-auto-id2412358">Assume that an intercontinental ballistic missile goes from rest to a suborbital speed of 6.50 km/s in 60.0 s (the actual speed and time are classified). What is its average acceleration in <m:math><m:semantics><m:mrow><m:mrow><m:msup><m:mtext>m/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> and in multiples of <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow></m:semantics></m:math>  <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>9</m:mn><m:mtext>.</m:mtext><m:mtext>80 m</m:mtext><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">)</m:mo></m:mrow><m:mo>?</m:mo></m:mrow><m:mrow/></m:mrow></m:semantics></m:math></para></problem></exercise>
+      </section>
+</content>
+
+  
+<glossary>
+      <definition id="import-auto-id2412629"><term>acceleration</term> <meaning id="fs-id4017767">the rate of change in velocity; the change in velocity over time</meaning></definition>
+      <definition id="import-auto-id2412631"><term>average acceleration</term> <meaning id="fs-id2015117">the change in velocity divided by the time over which it changes </meaning></definition>
+      <definition id="import-auto-id2412633"><term>instantaneous acceleration</term> <meaning id="fs-id2015126">acceleration at a specific point in time</meaning></definition>
+      <definition id="import-auto-id2412635"><term>deceleration</term> <meaning id="fs-id4122918">acceleration in the direction opposite to velocity; acceleration that results in a decrease in velocity</meaning></definition>
+      </glossary>
+</document>

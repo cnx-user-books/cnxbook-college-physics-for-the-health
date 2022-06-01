@@ -1,0 +1,167 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Forces: Introduction and key concepts</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m73272</md:content-id>
+  <md:title>Forces: Introduction and key concepts</md:title>
+  <md:abstract/>
+  <md:uuid>c8d17dbe-739e-400b-950b-ef5fd472b614</md:uuid>
+</metadata>
+
+<content>
+    
+    <section id="cid3">
+      <section id="uid50">
+        <title>adding Force</title><para id="id63680">The easiest way to determine a resultant force is to draw a free body diagram. Remember from <link target-id="">Vectors</link> that we use the length of the arrow to indicate the vector's magnitude and the direction of the arrow to show which direction it acts in.</para>
+        <para id="id63688">After we have done this, we have a diagram of vectors and we simply find the sum of the vectors to get the resultant force.</para>
+        <figure id="uid51">
+          <media id="uid51_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_011.png" id="uid51_onlineimage" width="185"><!-- NOTE: attribute width changes image size online (pixels). original width is 185. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_011.eps" id="uid51_printimage"/>
+          </media>
+          <caption>(a) Force diagram of 2 forces acting on a box. (b) Free body diagram of the box.</caption>
+        </figure>
+        <para id="id63704">For example, two people push on a box from opposite sides with forces of 4 N and 6 N respectively as shown in <link target-id="uid51"/>(a). The free body diagram in <link target-id="uid51"/>(b) shows the object represented by a dot and the two forces are represented by arrows with their tails on the dot.</para>
+        <para id="id63720">As you can see, the arrows point in opposite directions and have different lengths. The resultant force is 2 N to the left. This result can be obtained algebraically too, since the two forces act along the same line. First, as in motion in one direction, choose a frame of reference. Secondly, add the two vectors taking their directions into account.</para>
+        <para id="id63729">For the example, assume that the positive direction is to the right, then:</para>
+        <equation id="id63733">
+          <m:math overflow="scroll" mode="display">
+            <m:mtable displaystyle="true">
+              <m:mtr>
+                <m:mtd columnalign="right">
+                  <m:msub>
+                    <m:mi>F</m:mi>
+                    <m:mi>R</m:mi>
+                  </m:msub>
+                </m:mtd>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>(</m:mo>
+                    <m:mo>+</m:mo>
+                    <m:mn>4</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                    <m:mo>+</m:mo>
+                    <m:mo>(</m:mo>
+                    <m:mo>-</m:mo>
+                    <m:mn>6</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mo>)</m:mo>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mo>-</m:mo>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+              <m:mtr>
+                <m:mtd/>
+                <m:mtd>
+                  <m:mo>=</m:mo>
+                </m:mtd>
+                <m:mtd columnalign="left">
+                  <m:mrow>
+                    <m:mn>2</m:mn>
+                    <m:mspace width="0.166667em"/>
+                    <m:mi mathvariant="normal">N</m:mi>
+                    <m:mspace width="3.33333pt"/>
+                    <m:mrow>
+                      <m:mi> to </m:mi>
+                      <m:mi> the </m:mi>
+                      <m:mi> left </m:mi>
+                    </m:mrow>
+                  </m:mrow>
+                </m:mtd>
+              </m:mtr>
+            </m:mtable>
+          </m:math>
+        </equation>
+        <para id="id63849">Remember that a negative answer means that the force acts in the <emphasis effect="italics">opposite</emphasis> direction to the one that you chose to be positive. You can <emphasis effect="italics">choose</emphasis> the positive direction to be any way you want, but once you have chosen it you <emphasis effect="italics">must</emphasis> keep it.</para>
+        <para id="id63870">As you work with more force diagrams in which the forces exactly balance, you may notice that you get a zero answer (e.g. 0 N). This simply means that the forces are balanced and that the object will not accelerate.</para>
+        <para id="id63876">Once a force diagram has been drawn the techniques of vector addition introduced in <link target-id="">Vectors</link> can be used. Depending on the situation you might choose to use a graphical technique such as the tail-to-head method or the parallelogram method, or else an algebraic approach to determine the resultant. Since force is a vector quantity all of these methods apply.</para>
+<exercise id="secfhsst_id375"><title> Finding the resultant force </title>
+        <problem id="probfhsst_id376">
+        <para id="id63898">A car (mass 1200 kg) applies a force of 2000 N on a trailer (mass 250 kg). A constant frictional force of 200 N is acting on the trailer, and a constant frictional force of 300 N is acting on the car.</para>
+        <list id="id63905" display="block" list-type="enumerated">
+          <item id="uid52">Draw a force diagram of all the forces acting on the car.
+</item>
+          <item id="uid53">Draw a free body diagram of all the horizontal forces acting on the trailer.
+</item>
+          <item id="uid54">Use the force diagram to determine the resultant force on the trailer.
+</item>
+        </list>
+        
+        </problem>
+        <solution id="solfhsst_id388"> <list id="listfhsst_id388" list-type="enumerated" number-style="arabic" class="stepwise">
+        <item> <label> Draw the force diagram for the car. </label>
+        <para id="id63965">The question asks us to draw all the forces on the car. This means that we must include horizontal and vertical forces.</para>
+        <figure id="uid55">
+          <media id="uid55_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_012.png" id="uid55_onlineimage" width="380"><!-- NOTE: attribute width changes image size online (pixels). original width is 380. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_012.eps" id="uid55_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Draw the free body diagram for the trailer. </label>
+        <para id="id63982">The question only asks for horizontal forces. We will therefore not include the force of the Earth on the trailer, or the force of the road on the trailer as these forces are in a vertical direction.</para>
+        <figure id="uid56">
+          <media id="uid56_media" alt="">
+            <image mime-type="image/png" src="../../media/PG11C11_013.png" id="uid56_onlineimage" width="559"><!-- NOTE: attribute width changes image size online (pixels). original width is 559. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/PG11C11_013.eps" id="uid56_printimage"/>
+          </media>
+        </figure>
+        </item> <item> <label> Determine the resultant force on the trailer. </label>
+        <para id="id63999">To find the resultant force we need to add all the horizontal forces together. We do not add vertical forces as the movement of the car and trailer will be in a horizontal direction, and not up or down.
+F<m:math overflow="scroll"><m:msub><m:mrow/><m:mi>R</m:mi></m:msub></m:math> = 2000 + (-200) = 1800 N to the right.
+ </para>
+        </item> </list> </solution>
+</exercise>
+      </section>
+      <para id="eip-613"><link class="phetsim" window="new" url="http://phet.colorado.edu/sims/motion-series/forces-and-motion_en.jnlp">run demo</link>
+
+<figure id="id63458">
+            <media id="id63458_media" alt="">
+            <image mime-type="image/png" src="../../media/forces-and-motion-screenshot.png" id="id63458_onlineimage" width="350"><!-- NOTE: attribute width changes image size online (pixels). original width is 	350. --></image>
+            <image mime-type="application/postscript" for="pdf" src="../../media/forces-and-motion-screenshot.eps" id="id63458_printimage"/>
+            </media>
+            </figure></para><section id="uid57">
+        <title>Exercise</title>
+        <list id="id64036" display="block" list-type="enumerated"><item id="uid58">A force acts on an object. Name three effects that the force can have on the object.
+</item>
+          <item id="uid59">Identify each of the following forces as contact or non-contact forces.
+<list id="id64064" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid60">The force between the north pole of a magnet and a paper clip.
+</item><item id="uid61">The force required to open the door of a taxi.
+</item><item id="uid62">The force required to stop a soccer ball.
+</item><item id="uid63">The force causing a ball, dropped from a height of 2 m, to fall to the floor.
+</item></list></item>
+          <item id="uid64">A book of mass 2 kg is lying on a table. Draw a labeled force diagram indicating all the forces on the book.
+</item>
+          <item id="uid65">A boy pushes a shopping trolley (mass 15 kg) with a constant force of 75 N. A constant frictional force of 20 N is present.
+<list id="id64140" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid66">Draw a labeled force diagram to identify all the forces acting on the shopping trolley.
+</item><item id="uid67">Draw a free body diagram of all the horizontal forces acting on the trolley.
+</item><item id="uid68">Determine the resultant force on the trolley.
+</item></list></item>
+          <item id="uid69">A donkey (mass 250 kg) is trying to pull a cart (mass 80 kg) with a force of 400 N. The rope between the donkey and the cart makes an angle of 30<m:math overflow="scroll"><m:msup><m:mrow/><m:mo>∘</m:mo></m:msup></m:math> with the cart. The cart does not move.
+<list id="id64206" display="block" list-type="enumerated" number-style="lower-alpha"><item id="uid70">Draw a free body diagram of all the forces acting on the donkey.
+</item><item id="uid71">Draw a force diagram of all the forces acting on the cart.
+</item><item id="uid72">Find the magnitude and direction of the frictional force preventing the cart from moving.
+</item></list></item>
+        </list>
+      </section>
+    </section>
+
+     </content>
+</document>

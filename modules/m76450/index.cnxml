@@ -1,0 +1,995 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Thermal Expansion of Solids and Liquids</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m76450</md:content-id>
+  <md:title>Thermal Expansion of Solids and Liquids</md:title>
+  <md:abstract><list>
+<item>Define and describe thermal expansion.</item>
+<item>Calculate the linear expansion of an object given its initial length, change in temperature, and coefficient of linear expansion.</item>
+<item>Calculate the volume expansion of an object given its initial volume, change in temperature, and coefficient of volume expansion.</item>
+<item>Calculate thermal stress on an object given its original volume, temperature change, volume change, and bulk modulus.</item>
+</list></md:abstract>
+  <md:uuid>74283d3f-ba70-432e-8d1e-51e4d116f8c0</md:uuid>
+</metadata>
+
+<content>
+    <figure id="import-auto-id2186444"><media id="import-auto-id2230552" alt=""><image mime-type="image/jpg" src="../../media/Figure_14_02_01.jpg" width="200"/></media><caption>Thermal expansion joints like these in the Auckland Harbour Bridge in New Zealand allow bridges to change length without buckling. (credit: Ingolfson, Wikimedia Commons)</caption></figure><para id="import-auto-id1459613">The expansion of alcohol in a thermometer is one of many commonly encountered examples of <term id="import-auto-id1965463">thermal expansion</term>, the change in size or volume of a given mass with temperature. Hot air rises because its volume increases, which causes the hot air’s density to be smaller than the density of surrounding air, causing a buoyant (upward) force on the hot air. The same happens in all liquids and gases, driving natural heat transfer upwards in homes, oceans, and weather systems. Solids also undergo thermal expansion. Railroad tracks and bridges, for example, have expansion joints to allow them to freely expand and contract with temperature changes. </para>
+    <para id="import-auto-id1931587">What are the basic properties of thermal expansion? First, thermal expansion is clearly related to temperature change. The greater the temperature change, the more a bimetallic strip will bend. Second, it depends on the material. In a thermometer, for example, the expansion of alcohol is much greater than the expansion of the glass containing it. </para>
+    <para id="import-auto-id1407532">What is the underlying cause of thermal expansion? As is discussed in <link document="m42147">Kinetic Theory: Atomic and Molecular Explanation of Pressure and Temperature</link>, an increase in temperature implies an increase in the kinetic energy of the individual atoms. In a solid, unlike in a gas, the atoms or molecules are closely packed together, but their kinetic energy (in the form of small, rapid vibrations) pushes neighboring atoms or molecules apart from each other. This neighbor-to-neighbor pushing results in a slightly greater distance, on average, between neighbors, and adds up to a larger size for the whole body. For most substances under ordinary conditions, there is no preferred direction, and an increase in temperature will increase the solid’s size by a certain fraction in each dimension. </para><note id="fs-id1177143"><label/>
+    <title>Linear Thermal Expansion—Thermal Expansion in One Dimension</title>
+    <para id="import-auto-id1486416">The change in length <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> is proportional to length <m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math>. The dependence of thermal expansion on temperature, substance, and length is summarized in the equation</para><equation id="eip-695"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">L</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">αL</m:mi><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">T</m:mi></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL=αLΔT} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2142556">where <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> is the change in length <m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">T</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔT} {}</m:annotation></m:semantics></m:math> is the change in temperature, and <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math></emphasis> is the <term id="import-auto-id1961436">coefficient of linear expansion</term>, which varies slightly with temperature. </para></note>
+    <para id="import-auto-id2201376"><link target-id="import-auto-id1814176"/> lists representative values of the coefficient of linear expansion, which may have units of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mtext>º</m:mtext></m:mrow><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1/°C} {}</m:annotation></m:semantics></m:math> or 1/K. Because the size of a kelvin and a degree Celsius are the same, both <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math></emphasis> and <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">T</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔT} {}</m:annotation></m:semantics></m:math> can be expressed in units of kelvins or degrees Celsius. The equation <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">L</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">αL</m:mi><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">T </m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL=αLΔT} {}</m:annotation></m:semantics></m:math> is accurate for small changes in temperature and can be used for large changes in temperature if an average value of <emphasis effect="italics"><m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math></emphasis> is used.</para><table id="import-auto-id1814176" summary="Three-column table gives the thermal expansion coefficients of various solids, liquids, and gases at twenty degrees Celsius. The left column gives the names of the materials; the middle column gives the coefficient of linear expansion of various solids; and the right column gives the coefficient of volume expansion of solids, liquids, and gases."><title>Thermal Expansion Coefficients at <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>20</m:mtext><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"20"°C} {}</m:annotation></m:semantics></m:math><emphasis effect="bold"><footnote id="import-auto-footnote-1"> Values for liquids and gases are approximate.</footnote></emphasis></title><tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+         <thead>  
+          <row>
+            <entry>Material</entry>
+            <entry>Coefficient of linear expansion <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>α</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mtext>º</m:mtext></m:mrow><m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α  \( 1/°C \) } {}</m:annotation></m:semantics></m:math></entry>
+            <entry>Coefficient of volume expansion <m:math display="block"><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>β</m:mi><m:mo stretchy="false">(</m:mo><m:mrow><m:mn>1</m:mn><m:mo stretchy="false">/</m:mo><m:mtext>º</m:mtext></m:mrow><m:mtext>C</m:mtext><m:mo stretchy="false">)</m:mo></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β  \( 1/°C \) } {}</m:annotation></m:semantics></m:math></entry>
+          </row></thead>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis>Solids</emphasis>
+            </entry>
+            
+          </row>
+          <row>
+            <entry>Aluminum</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>25</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"25" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>75</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"75"´"10" rSup { size 8{ +- 6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Brass</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>19</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"19" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>56</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"56"´"10" rSup { size 8{ +- 6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Copper</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>17</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"17" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>51</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"51" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Gold</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>14</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"14" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>42</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"42" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Iron or Steel</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>12</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"12" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>35</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"35" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Invar (Nickel-iron alloy)</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mn>9</m:mn>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:msup>
+                            <m:mtext>10</m:mtext>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>–</m:mi>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{0 "." 9 times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mn>7</m:mn>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:msup>
+                            <m:mtext>10</m:mtext>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>–</m:mi>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{2 "." 7 times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Lead</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>29</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"29" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>87</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"87" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Silver</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>18</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"18" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>54</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"54" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Glass (ordinary)</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>9</m:mn>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{9 times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>27</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"27" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Glass (Pyrex®)</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>3</m:mn>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{3 times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>9</m:mn>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{9 times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Quartz</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>0</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mn>4</m:mn>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{0 "." 4´"10" rSup { size 8{ +- 6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>1</m:mn>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{1 times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Concrete, Brick</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>~</m:mtext>
+                        <m:mtext>12</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ "~" "12"´"10" rSup { size 8{ +- 6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>~</m:mtext>
+                        <m:mrow>
+                          <m:mtext>36</m:mtext>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:msup>
+                            <m:mtext>10</m:mtext>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>–</m:mi>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{ "~" "36" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Marble (average)</entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mn>5</m:mn>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{2 "." 5´"10" rSup { size 8{ +- 6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mn>7</m:mn>
+                        <m:mtext>.</m:mtext>
+                        <m:mrow>
+                          <m:mn>5</m:mn>
+                          <m:mo stretchy="false">×</m:mo>
+                          <m:msup>
+                            <m:mtext>10</m:mtext>
+                            <m:mrow>
+                              <m:mrow>
+                                <m:mi>–</m:mi>
+                                <m:mn>6</m:mn>
+                              </m:mrow>
+                            </m:mrow>
+                          </m:msup>
+                        </m:mrow>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{7 "." 5 times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis>Liquids</emphasis>
+            </entry>
+          </row>
+          <row>
+            <entry>Ether</entry>
+            <entry/>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>1650</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"1650" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Ethyl alcohol</entry>
+            <entry/>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>1100</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"1100" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Petrol</entry>
+            <entry/>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>950</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"950" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Glycerin</entry>
+            <entry/>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>500</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"500" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Mercury</entry>
+            <entry/>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>180</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"180" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry>Water</entry>
+            <entry/>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>210</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"210" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c3">
+              <emphasis>Gases</emphasis>
+            </entry>
+            
+          </row>
+          <row>
+            <entry>Air and most other gases at atmospheric pressure</entry>
+            <entry/>
+            <entry>
+              <m:math display="block">
+                <m:semantics>
+                  <m:mrow>
+                    <m:mrow>
+                      <m:mrow>
+                        <m:mtext>3400</m:mtext>
+                        <m:mo stretchy="false">×</m:mo>
+                        <m:msup>
+                          <m:mtext>10</m:mtext>
+                          <m:mrow>
+                            <m:mrow>
+                              <m:mi>–</m:mi>
+                              <m:mn>6</m:mn>
+                            </m:mrow>
+                          </m:mrow>
+                        </m:msup>
+                      </m:mrow>
+                    </m:mrow>
+                    <m:mrow/>
+                  </m:mrow>
+                  <m:annotation encoding="StarMath 5.0"> size 12{"3400" times "10" rSup { size 8{–6} } } {}</m:annotation>
+                </m:semantics>
+              </m:math>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table><example id="eip-365">
+<title>Calculating Linear Thermal Expansion: The Golden Gate Bridge</title>
+<para id="import-auto-id1490753">The main span of San Francisco’s Golden Gate Bridge is 1275 m long at its coldest. The bridge is exposed to temperatures ranging from <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>–</m:mi><m:mtext>15</m:mtext><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{–"15"°C} {}</m:annotation></m:semantics></m:math> to <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>40</m:mtext><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"40"°C} {}</m:annotation></m:semantics></m:math>. What is its change in length between these temperatures? Assume that the bridge is made entirely of steel.</para><para id="import-auto-id1800819"><emphasis>Strategy</emphasis></para>
+      <para id="import-auto-id1487140">Use the equation for linear thermal expansion <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>L</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">αL</m:mi></m:mrow><m:mi/><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">T</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL=αL`ΔT} {}</m:annotation></m:semantics></m:math> to calculate the change in length , <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math>. Use the coefficient of linear expansion, <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, for steel from <link target-id="import-auto-id1814176"/>, and note that the change in temperature, <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">T</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔT} {}</m:annotation></m:semantics></m:math>, is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>55</m:mtext><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{"55"°C} {}</m:annotation></m:semantics></m:math>.</para><para id="import-auto-id1411148">
+        <emphasis>Solution</emphasis>
+      </para>
+      <para id="import-auto-id1145473">Plug all of the known values into the equation to solve for <m:math><m:semantics><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math>. </para><equation id="eip-520"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">L</m:mi><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">αL</m:mi><m:mtext>Δ</m:mtext><m:mi fontstyle="italic">T</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mfenced open="(" close=")"><m:mfrac><m:mrow><m:mtext>12</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mn>6</m:mn></m:mrow></m:mrow></m:msup></m:mrow><m:mrow><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mfrac></m:mfenced></m:mrow><m:mfenced open="(" close=")"><m:mtext>1275 m</m:mtext></m:mfenced><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mtext>55</m:mtext><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mfenced><m:mo stretchy="false">=</m:mo><m:mn>0</m:mn></m:mrow><m:mtext>.</m:mtext><m:mtext>84 m.</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL=αLΔT= left ( {  {"12" times "10" rSup { size 8{ - 6} } }  over  {°C} }  right ) left ("1275 m" right ) left ("55"°C right )=0 "." "84 m"} {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1166589">
+        <emphasis>Discussion</emphasis>
+      </para>
+      <para id="import-auto-id1461535">Although not large compared with the length of the bridge, this change in length is observable. It is generally spread over many expansion joints so that the expansion at each joint is small.</para>
+</example>      
+<section id="fs-id1581209" class="section-summary"><title>Section Summary</title><list id="fs-id1396026"><item>Thermal expansion is the increase, or decrease, of the size (length, area, or volume) of a body due to a change in temperature.</item>
+      <item>Thermal expansion is large for gases, and relatively small, but not negligible, for liquids and solids. </item>
+      <item>Linear thermal expansion is
+      <equation id="fs-id1406469"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>L</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">αL</m:mi><m:mrow><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL=αLΔT} {}</m:annotation></m:semantics></m:math></equation>
+where <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>L</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔL} {}</m:annotation></m:semantics></m:math> is the change in length <m:math><m:semantics><m:mrow><m:mrow><m:mi>L</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{L} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔT} {}</m:annotation></m:semantics></m:math> is the change in temperature, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math> is the coefficient of linear expansion, which varies slightly with temperature.
+      </item>      
+      <item>The change in area due to thermal expansion is
+      <equation id="fs-id1479608"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>A</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mn>2</m:mn><m:mi fontstyle="italic">αA</m:mi><m:mrow><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔA=2αAΔT} {}</m:annotation></m:semantics></m:math></equation>
+where <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>A</m:mi></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔA} {}</m:annotation></m:semantics></m:math> is the change in area.
+      </item>
+      <item>The change in volume due to thermal expansion is
+      <equation id="fs-id1561195"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mtext>Δ</m:mtext><m:mi>V</m:mi></m:mrow><m:mo stretchy="false">=</m:mo><m:mi fontstyle="italic">βV</m:mi><m:mrow><m:mtext>Δ</m:mtext><m:mi>T</m:mi></m:mrow></m:mrow><m:mo>,</m:mo></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ΔV=βVΔT} {}</m:annotation></m:semantics></m:math></equation>
+where <m:math><m:semantics><m:mrow><m:mrow><m:mi>β</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math> is the coefficient of volume expansion and <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>β</m:mi><m:mo stretchy="false">≈</m:mo><m:mn>3α</m:mn></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β approx 3α} {}</m:annotation></m:semantics></m:math>. Thermal stress is created when thermal expansion is constrained.
+      </item>
+      </list></section></content>
+<glossary>
+      <definition id="import-auto-id1957662"><term>thermal expansion</term> <meaning id="fs-id1428613">the change in size or volume of an object with change in temperature</meaning></definition>
+      <definition id="import-auto-id1957664"><term>coefficient of linear expansion</term> <meaning id="fs-id1800721"><m:math><m:semantics><m:mrow><m:mrow><m:mi>α</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{α} {}</m:annotation></m:semantics></m:math>, the change in length, per unit length, per <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1°C} {}</m:annotation></m:semantics></m:math> change in temperature; a constant used in the calculation of linear expansion; the coefficient of linear expansion depends on the material and to some degree on the temperature of the material</meaning></definition>
+      <definition id="import-auto-id1312090"><term>coefficient of volume expansion</term> <meaning id="fs-id1456692"><m:math><m:semantics><m:mrow><m:mrow><m:mi>β</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{β} {}</m:annotation></m:semantics></m:math>, the change in volume, per unit volume, per <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>º</m:mtext><m:mtext>C</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1°C} {}</m:annotation></m:semantics></m:math> change in temperature</meaning></definition>
+      <definition id="import-auto-id1705852"><term>thermal stress</term> <meaning id="fs-id1553830">stress caused by thermal expansion or contraction</meaning></definition>
+      </glossary>
+</document>

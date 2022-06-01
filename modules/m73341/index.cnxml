@@ -1,0 +1,201 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML">
+  <title>Newton’s Universal Law of Gravitation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m73341</md:content-id>
+  <md:title>Newton’s Universal Law of Gravitation</md:title>
+  <md:abstract><list>
+<item>Explain Earth’s gravitational force.</item>
+<item>Describe the gravitational effect of the Moon on Earth.</item>
+<item>Discuss weightlessness in space.</item>
+<item>Examine the Cavendish experiment</item>
+</list></md:abstract>
+  <md:uuid>6ba0767f-54fb-4ebc-8c46-7f176f9afe55</md:uuid>
+</metadata>
+
+<content>
+    <para id="import-auto-id2588782">Sir Isaac Newton was the first scientist to precisely define the gravitational force, and to show that it could explain both falling bodies and astronomical motions. See <link target-id="import-auto-id2409649"/>. </para><figure id="import-auto-id2409649"><media id="import-auto-id1570917" alt="The figure shows a graphic image of a person sitting under a tree carefully looking toward an apple falling from the tree above him. There is a view of a river behind him and an image of the Sun in the sky.">
+        <image mime-type="image/jpg" src="../../media/Figure_07_05_01a.jpg" width="225"/>
+      </media>
+      
+    <caption>According to early accounts, Newton was inspired to make the connection between falling bodies and astronomical motions when he saw an apple fall from a tree and realized that if the gravitational force could extend above the ground to a tree, it might also reach the Sun. The inspiration of Newton’s apple is a part of worldwide folklore and may even be based in fact. Great importance is attached to it because Newton’s universal law of gravitation and his laws of motion answered very old questions about nature and gave tremendous support to the notion of underlying simplicity and unity in nature. Scientists still expect underlying simplicity to emerge from their ongoing inquiries into nature.</caption></figure><para id="import-auto-id1922568">The gravitational force is relatively simple. It is always attractive, and it depends only on the masses involved and the distance between them. Stated in modern language, <term id="import-auto-id3092070">Newton’s universal law of gravitation</term> states that every particle in the universe attracts every other particle with a force along a line joining them. The force is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.</para>
+    
+    <figure id="import-auto-id2406145"><media id="import-auto-id3356604" alt="The given figure shows two circular objects, one with a larger mass M on the right side, and another with a smaller mass m on the left side. A point in the center of each object is shown, with both depicting the center of mass of the objects at these points. A line is drawn joining the center of the objects and is labeled as r. Two red arrows, one each from both the center of the objects, are drawn toward each other and are labeled as F, the magnitude of the gravitational force on both the objects.">
+        <image mime-type="image/jpg" src="../../media/Figure_07_05_02a.jpg" width="300"/>
+      </media>
+      
+    <caption>Gravitational attraction is along a line joining the centers of mass of these two bodies. The magnitude of the force is the same on each, consistent with Newton’s third law.</caption></figure><note id="fs-id1985511"><label/>
+    <title>Misconception Alert</title>
+    <para id="import-auto-id1916708">The magnitude of the force on each object (one has larger mass than the other) is the same, consistent with Newton’s third law.</para>
+    </note>
+    <equation id="eip-492"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mi>G</m:mi></m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mM</m:mtext></m:mrow></m:mstyle><m:msup><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mfrac></m:mrow></m:mrow><m:mrow/><m:mrow><m:mtext>,</m:mtext></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F=G {  { ital "mM"}  over  {r rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2400686">where <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> is the magnitude of the gravitational force and <m:math><m:semantics><m:mrow><m:mrow><m:mi>G</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation></m:semantics></m:math> is a proportionality factor called the <term id="import-auto-id3407485">gravitational constant</term>. <m:math><m:semantics><m:mrow><m:mrow><m:mi>G</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation></m:semantics></m:math> is a universal gravitational constant—that is, it is thought to be the same everywhere in the universe. It has been measured experimentally to be</para><equation id="eip-939"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>G</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>6</m:mn>
+                  </m:mrow>
+                  <m:mtext>.</m:mtext>
+                  <m:mrow>
+                    <m:mtext>674</m:mtext>
+                    <m:mo stretchy="false">×</m:mo>
+                    <m:msup>
+                      <m:mtext>10</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mrow>
+                            <m:mo stretchy="false">−</m:mo>
+                            <m:mtext>11</m:mtext>
+                          </m:mrow>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mrow>
+                  <m:mfrac>
+                    <m:mrow>
+                      <m:mtext>N</m:mtext>
+                      <m:mo stretchy="false">⋅</m:mo>
+                      <m:msup>
+                        <m:mtext>m</m:mtext>
+                        
+                          <m:mrow>
+                            <m:mn>2</m:mn>
+                          </m:mrow>
+                        
+                      </m:msup>
+                    </m:mrow>
+                    <m:msup>
+                      <m:mtext>kg</m:mtext>
+                      
+                        <m:mrow>
+                          <m:mn>2</m:mn>
+                        </m:mrow>
+                      
+                    </m:msup>
+                  </m:mfrac>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+          <m:annotation encoding="StarMath 5.0"> size 12{G=6 "." "673" times "10" rSup { size 8{ - "11"} }   {  {N cdot m rSup { size 8{2} } }  over  {"kg" rSup { size 8{2} } } } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><para id="import-auto-id3399613">Recall that the acceleration due to gravity <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math> is about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>9.80 m</m:mn><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." 8`"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> on Earth. We can now determine why this is so. The weight of an object <emphasis effect="italics">mg</emphasis> is the gravitational force between it and Earth. Substituting <emphasis effect="italics">mg</emphasis> for <m:math><m:semantics><m:mrow><m:mrow><m:mi>F</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F} {}</m:annotation></m:semantics></m:math> in Newton’s universal law of gravitation gives</para><equation id="eip-171"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mg</m:mtext></m:mrow></m:mstyle><m:mo stretchy="false">=</m:mo><m:mi>G</m:mi></m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mM</m:mtext></m:mrow></m:mstyle><m:msup><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mfrac></m:mrow></m:mrow><m:mrow/><m:mrow><m:mtext>,</m:mtext></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ ital "mg"=G {  { ital "mM"}  over  {r rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2598999">where <m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> is the mass of the object, <m:math><m:semantics><m:mrow><m:mrow><m:mi>M</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{M} {}</m:annotation></m:semantics></m:math> is the mass of Earth, and <m:math><m:semantics><m:mrow><m:mrow><m:mi>r</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{r} {}</m:annotation></m:semantics></m:math> is the distance to the center of Earth (the distance between the centers of mass of the object and Earth). See <link target-id="import-auto-id2448812"/>. The mass <m:math><m:semantics><m:mrow><m:mrow><m:mi>m</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{m} {}</m:annotation></m:semantics></m:math> of the object cancels, leaving an equation for <m:math><m:semantics><m:mrow><m:mrow><m:mi>g</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g} {}</m:annotation></m:semantics></m:math>:</para><equation id="eip-713"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">=</m:mo><m:mi>G</m:mi></m:mrow><m:mfrac><m:mi>M</m:mi><m:msup><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mfrac></m:mrow></m:mrow><m:mrow/><m:mrow><m:mtext>.</m:mtext></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g=G {  {M}  over  {r rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id1350038">Substituting known values for Earth’s mass and radius (to three significant figures),</para>
+    <equation id="eip-216"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mi>g</m:mi><m:mo stretchy="false">=</m:mo><m:mrow><m:mfenced open="(" close=")"><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>67</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mrow><m:mo stretchy="false">−</m:mo><m:mtext>11</m:mtext></m:mrow></m:mrow></m:msup></m:mrow><m:mfrac><m:mrow><m:mtext>N</m:mtext><m:mo stretchy="false">⋅</m:mo><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:msup><m:mtext>kg</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mfrac></m:mrow></m:mfenced><m:mo stretchy="false">×</m:mo><m:mfrac><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>98</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>24</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>kg</m:mtext></m:mrow><m:mrow><m:mo stretchy="false">(</m:mo><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>38</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>m</m:mtext><m:msup><m:mo stretchy="false">)</m:mo><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mfrac></m:mrow></m:mrow></m:mrow><m:mrow/><m:mrow><m:mtext>,</m:mtext></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{g= left (6 "." "67" times "10" rSup { size 8{ - "11"} }   {  {N cdot m rSup { size 8{2} } }  over  {"kg" rSup { size 8{2} } } }  right ) times  {  {5 "." "98" times "10" rSup { size 8{"24"} } " kg"}  over  { \( 6 "." "38" times "10" rSup { size 8{6} } " m" \)  rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id3177920">and we obtain a value for the acceleration of a falling body:</para>
+    <equation id="eip-206"><m:math>
+        <m:semantics>
+          <m:mrow>
+            
+              <m:mrow>
+                <m:mrow>
+                  <m:mrow>
+                    <m:mi>g</m:mi>
+                    <m:mo stretchy="false">=</m:mo>
+                    <m:mn>9</m:mn>
+                  </m:mrow>
+                  <m:mtext>.</m:mtext>
+                  <m:mtext>80</m:mtext>
+                  <m:mspace width="0.25em"/> 
+                  <m:msup>
+                    <m:mtext>m/s</m:mtext>
+                    
+                      <m:mrow>
+                        <m:mn>2</m:mn>
+
+                      </m:mrow>
+                    
+                  </m:msup>
+<m:mo>.</m:mo>
+                </m:mrow>
+              </m:mrow>
+            
+            <m:mrow/>
+          </m:mrow>
+
+          <m:annotation encoding="StarMath 5.0"> size 12{g=9 "." "80"" m/s" rSup { size 8{2} } } {}</m:annotation>
+        </m:semantics>
+      </m:math> 
+    </equation><figure id="import-auto-id2448812"><media id="import-auto-id1475306" alt="The given figure shows two circular images side by side. The bigger circular image on the left shows the Earth, with a map of Africa over it in the center, and the first quadrant in the circle being a line diagram showing the layers beneath Earth’s surface. The second circular image shows a house over the Earth’s surface and a vertical line arrow from its center to the downward point in the circle as its radius distance from the Earth’s surface. A similar line showing the Earth’s radius is also drawn in the first quadrant of the first image in a slanting way from the center point to the circle path.">
+        <image mime-type="image/jpg" src="../../media/Figure_07_05_03a.jpg" width="300"/>
+      </media>
+      
+    <caption>The distance between the centers of mass of Earth and an object on its surface is very nearly the same as the radius of Earth, because Earth is so much larger than the object.</caption></figure><para id="import-auto-id3047246">This is the expected value <emphasis effect="italics">and is independent of the body’s mass</emphasis>. Newton’s law of gravitation takes Galileo’s observation that all masses fall with the same acceleration a step further, explaining the observation in terms of a force that causes objects to fall—in fact, in terms of a universally existing force of attraction between masses.</para>
+    <note id="fs-id1588288"><label/><title>Take-Home Experiment</title>
+    
+    <para id="import-auto-id2600596">Take a marble, a ball, and a spoon and drop them from the same height. Do they hit the floor at the same time? If you drop a piece of paper as well, does it behave like the other objects? Explain your observations.</para>
+    </note><section id="fs-id3081284" class="section-summary"><title>Section Summary</title><list id="fs-id1903962">
+    <item id="import-auto-id3449413">Newton’s universal law of gravitation: Every particle in the universe attracts every other particle with a force along a line joining them. The force is directly proportional to the product of their masses and inversely proportional to the square of the distance between them. In equation form, this is
+    <equation id="eip-143"><m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>F</m:mi><m:mo stretchy="false">=</m:mo><m:mi>G</m:mi></m:mrow><m:mfrac><m:mstyle fontstyle="italic"><m:mrow><m:mtext>mM</m:mtext></m:mrow></m:mstyle><m:msup><m:mi>r</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mfrac></m:mrow></m:mrow><m:mrow/><m:mrow><m:mtext>,</m:mtext></m:mrow></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{F=G {  { ital "mM"}  over  {r rSup { size 8{2} } } } } {}</m:annotation></m:semantics></m:math></equation><para id="import-auto-id2032016">where F is the magnitude of the gravitational force. <m:math><m:semantics><m:mrow><m:mrow><m:mi>G</m:mi></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{G} {}</m:annotation></m:semantics></m:math> is the gravitational constant, given by <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mi>G</m:mi><m:mo stretchy="false">=</m:mo><m:mn>6</m:mn></m:mrow><m:mtext>.</m:mtext><m:mrow><m:mtext>674</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>–11</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mi/><m:mrow><m:mtext>N</m:mtext><m:mo stretchy="false">⋅</m:mo><m:msup><m:mtext>m</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow><m:msup><m:mtext>/kg</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{G=6 "." "673" times "10" rSup { size 8{"-11"} } `N cdot m rSup { size 8{2} } "/kg" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>.</para></item>
+    <item id="import-auto-id3163844">Newton’s law of gravitation applies universally.</item>
+    </list>
+    </section><section id="fs-id1004097" class="conceptual-questions" type="conceptual-questions"><title>Conceptual Questions</title>
+    <exercise id="fs-id959677" type="conceptual-questions"><problem id="fs-id3118889"><para id="import-auto-id2659656">Action at a distance, such as is the case for gravity, was once thought to be illogical and therefore untrue. What is the ultimate determinant of the truth in physics, and why was this action ultimately accepted?</para></problem></exercise>
+      <exercise id="fs-id3122954" type="conceptual-questions"><problem id="fs-id3006966"><para id="fs-id1452850">Two friends are having a conversation. Anna says a satellite in orbit is in freefall because the satellite keeps falling toward Earth. Tom says a satellite in orbit is not in freefall because the acceleration due to gravity is not <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>9.80 m</m:mn><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." "80"`"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math>. Who do you agree with and why?</para></problem></exercise>
+      <exercise id="fs-id3233493" type="conceptual-questions"><problem id="fs-id3165400"><para id="fs-id2053936">Draw a free body diagram for a satellite in an elliptical orbit showing why its speed increases as it approaches its parent body and decreases as it moves away.</para></problem></exercise>
+      <exercise id="fs-id1890173" type="conceptual-questions"><problem id="fs-id3385524"><para id="fs-id3161899">Newton’s laws of motion and gravity were among the first to convincingly demonstrate the underlying simplicity and unity in nature. Many other examples have since been discovered, and we now expect to find such underlying order in complex situations. Is there proof that such order will always be found in new explorations?</para></problem></exercise>
+    </section>
+      <section id="fs-id1411128" type="problems-exercises" class="problems-exercises"><title>Problem Exercises</title>
+    <exercise id="fs-id1845493" type="problems-exercises">
+      <problem id="fs-id2937101">
+        <para id="import-auto-id368329">(a) Calculate Earth’s mass given the acceleration due to gravity at the North Pole is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>9.830 m</m:mn><m:msup><m:mtext>/s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{9 "." "830"`"m/s" rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math> and the radius of the Earth is 6371 km from center to pole.</para><para id="fs-id3430235">(b) Compare this with the accepted value of <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>5</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>979</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>24</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{5 "." "979" times "10" rSup { size 8{"24"} } `"kg"} {}</m:annotation></m:semantics></m:math>.</para></problem>
+      <solution id="fs-id2399023" type="problems-exercises">
+        <para id="fs-id2989950">a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>5.979</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>24</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{ {underline  {5 cdot "979" times "10" rSup { size 8{"24"} } " kg"}} } {}</m:annotation></m:semantics></m:math></para><para id="fs-id2595260">b) This is identical to the best value to three significant figures.</para></solution></exercise>
+      <exercise id="fs-id2991154" type="problems-exercises">
+        <problem id="fs-id3073242">
+          <para id="fs-id954422">(a) Calculate the magnitude of the acceleration due to gravity on the surface of Earth due to the Moon.</para><para id="fs-id3149527">(b) Calculate the magnitude of the acceleration due to gravity at Earth due to the Sun.</para><para id="fs-id1917983">(c) Take the ratio of the Moon’s acceleration to the Sun’s and comment on why the tides are predominantly due to the Moon in spite of this number.</para>
+          </problem></exercise>
+          <exercise id="fs-id1427117" type="problems-exercises"><problem id="fs-id1525065">
+              <para id="fs-id1828565">(a) What is the acceleration due to gravity on the surface of the Moon?</para> 
+          <para id="fs-id2659214">(b) On the surface of Mars? The mass of Mars is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>6.418</m:mn><m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>23</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "418" times "10" rSup { size 8{"23"} } `"kg"} {}</m:annotation></m:semantics></m:math> and its radius is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>38</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mn>6</m:mn></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "38" times "10" rSup { size 8{6} } `m} {}</m:annotation></m:semantics></m:math>.</para></problem>
+            <solution id="fs-id1561026" type="problems-exercises"><para id="fs-id3068997">a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>1.62</m:mn></m:mrow><m:mrow><m:mspace width="0.5em"/><m:mtext> m</m:mtext><m:mo stretchy="false">/</m:mo><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 cdot "62"" m"/s rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para><para id="eip-id1447080">b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3.75</m:mn></m:mrow><m:mrow><m:mspace width="0.5em"/><m:mtext> m</m:mtext><m:mo stretchy="false">/</m:mo><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 cdot "62"" m"/s rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para></solution>
+          </exercise>
+        <exercise id="fs-id3115601" type="problems-exercises">
+          <problem id="fs-id2957474">
+            <para id="fs-id3077410">(a) Calculate the acceleration due to gravity on the surface of the Sun.</para> 
+            <para id="fs-id3046596">(b) By what factor would your weight increase if you could stand on the Sun? (Never mind that you cannot.)</para>
+          </problem>
+          </exercise>
+           <exercise id="fs-id3135282" type="problems-exercises"><problem id="fs-id2622806"><para id="fs-id3027647">The Moon and Earth rotate about their common center of mass, which is located about 4700 km from the center of Earth. (This is 1690 km below the surface.)</para> 
+          <para id="fs-id1740702">(a) Calculate the magnitude of the acceleration due to the Moon’s gravity at that point.</para><para id="fs-id2407918">(b) Calculate the magnitude of the centripetal acceleration of the center of Earth as it rotates about that point once each lunar month (about 27.3 d) and compare it with the acceleration found in part (a). Comment on whether or not they are equal and why they should or should not be.</para></problem>
+             <solution id="fs-id3355423" type="problems-exercises">
+<para id="eip-id2365816">a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3.42</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>–5</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mrow><m:mtext>m</m:mtext><m:mo stretchy="false">/</m:mo><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot "42"  times "10" rSup { size 8{"-5"} } m/s rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para><para id="eip-id3371557">b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>3.34</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>–5</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mrow><m:mtext>m</m:mtext><m:mo stretchy="false">/</m:mo><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 cdot "34"  times "10" rSup { size 8{"-5"} } m/s rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para><para id="fs-id1548457">The values are nearly identical. One would expect the gravitational force to be the same as the centripetal force at the core of the system.</para></solution></exercise>
+             <exercise id="fs-id3051529" type="problems-exercises">
+               <problem id="fs-id3069258">
+                 <para id="fs-id3158586">Solve part (b) of <link target-id="fs-id3174863"/> using <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:msub><m:mi>a</m:mi><m:mrow><m:mi>c</m:mi></m:mrow></m:msub><m:mo stretchy="false">=</m:mo><m:mrow><m:msup><m:mi>v</m:mi><m:mrow><m:mn>2</m:mn></m:mrow></m:msup><m:mo stretchy="false">/</m:mo><m:mi>r</m:mi></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{a rSub { size 8{c} } =v rSup { size 8{2} } /r} {}</m:annotation></m:semantics></m:math>.</para>
+        </problem></exercise>
+<exercise id="fs-id1516358" type="problems-exercises"><problem id="fs-id2057369"><para id="fs-id2671027"> Astrology, that unlikely and vague pseudoscience, makes much of the position of the planets at the moment of one’s birth. The only known force a planet exerts on Earth is gravitational.</para> 
+        <para id="fs-id3348398">(a) Calculate the magnitude of the gravitational force exerted on a 4.20 kg baby by a 100 kg father 0.200 m away at birth (he is assisting, so he is close to the child).</para><para id="fs-id1355108">(b) Calculate the magnitude of the force on the baby due to Jupiter if it is at its closest distance to Earth, some <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>6</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>29</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>11</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{6 "." "29" times "10" rSup { size 8{"11"} } `m} {}</m:annotation></m:semantics></m:math> away. How does the force of Jupiter on the baby compare to the force of the father on the baby? Other objects in the room and the hospital building also exert similar gravitational forces. (Of course, there could be an unknown force acting, but scientists first need to be convinced that there is even an effect, much less that an unknown force causes it.)</para></problem>     
+      <solution id="fs-id2671517" type="problems-exercises">
+<para id="fs-id3137181">a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>7.01</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>–7</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mrow><m:mtext>N</m:mtext></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{7 cdot "01"  times "10" rSup { size 8{"-7"} } N} {}</m:annotation></m:semantics></m:math></para><para id="eip-id3209756">b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>1.35</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>–6</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mrow><m:mtext>N</m:mtext></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 cdot "35"  times "10" rSup { size 8{"-6"} } N} {}</m:annotation></m:semantics></m:math>, <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>0.521</m:mn></m:mrow></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{0 cdot "521"} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+        <exercise id="fs-id2407168" type="problems-exercises"><problem id="fs-id2435901"><para id="fs-id3401030">The existence of the dwarf planet Pluto was proposed based on irregularities in Neptune’s orbit. Pluto was subsequently discovered near its predicted position. But it now appears that the discovery was fortuitous, because Pluto is small and the irregularities in Neptune’s orbit were not well known. To illustrate that Pluto has a minor effect on the orbit of Neptune compared with the closest planet to Neptune:</para>
+        <para id="fs-id2971671">(a) Calculate the acceleration due to gravity at Neptune due to Pluto when they are <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>4</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>12</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 "." "50" times "10" rSup { size 8{"12"} } `m} {}</m:annotation></m:semantics></m:math> apart, as they are at present. The mass of Pluto is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>1</m:mn><m:mtext>.</m:mtext><m:mrow><m:mn>4</m:mn><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>22</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 "." 4 times "10" rSup { size 8{"22"} } `"kg"} {}</m:annotation></m:semantics></m:math>.</para><para id="fs-id2968588">(b) Calculate the acceleration due to gravity at Neptune due to Uranus, presently about <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>50</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>12</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext>m</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "50" times "10" rSup { size 8{"12"} } `m} {}</m:annotation></m:semantics></m:math> apart, and compare it with that due to Pluto. The mass of Uranus is <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>8</m:mn><m:mtext>.</m:mtext><m:mrow><m:mtext>62</m:mtext><m:mo stretchy="false">×</m:mo><m:msup><m:mtext> 10</m:mtext><m:mrow><m:mtext>25</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mtext> kg</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{8 "." "62" times " 10" rSup { size 8{"25"} } " kg"} {}</m:annotation></m:semantics></m:math>.</para></problem></exercise>
+        <exercise id="fs-id1422828" type="problems-exercises"><problem id="fs-id1992846"><para id="fs-id3176508">(a) The Sun orbits the Milky Way galaxy once each <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>2</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>60 x 10</m:mtext><m:mrow><m:mn>8</m:mn></m:mrow></m:msup><m:mspace width="0.25em"/><m:mtext> y</m:mtext></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 "." "60 x 10" rSup { size 8{8} } " y"} {}</m:annotation></m:semantics></m:math>, with a roughly circular orbit averaging <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mn>3</m:mn><m:mtext>.</m:mtext><m:msup><m:mtext>00 x 10</m:mtext><m:mrow><m:mn>4</m:mn></m:mrow></m:msup></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{3 "." "00 x 10" rSup { size 8{4} } } {}</m:annotation></m:semantics></m:math> light years in radius. (A light year is the distance traveled by light in 1 y.) Calculate the centripetal acceleration of the Sun in its galactic orbit. Does your result support the contention that a nearly inertial frame of reference can be located at the Sun?</para><para id="fs-id2447454">(b) Calculate the average speed of the Sun in its galactic orbit. Does the answer surprise you?</para></problem>
+          <solution id="fs-id1525225" type="problems-exercises">
+<para id="fs-id3108985">a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>1.66</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>–10</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mrow><m:mtext>m</m:mtext><m:mo stretchy="false">/</m:mo><m:msup><m:mtext>s</m:mtext><m:mrow><m:mn>2</m:mn></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{1 cdot "66"  times "10" rSup { size 8{"-10"} } m/s rSup { size 8{2} } } {}</m:annotation></m:semantics></m:math></para><para id="eip-id2639319">b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2.17</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>5</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mrow><m:mtext>m/s</m:mtext></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot "17"  times "10" rSup { size 8{"5"} } m/s} {}</m:annotation></m:semantics></m:math></para></solution></exercise>
+          <exercise id="fs-id3202966" type="problems-exercises"><problem id="fs-id2446906">    <para id="import-auto-id3180744">
+      <emphasis>Unreasonable Result</emphasis>
+    </para>
+    <para id="import-auto-id2051690"> A mountain 10.0 km from a person exerts a gravitational force on him equal to 2.00% of his weight. </para>
+      <para id="fs-id2583247">(a) Calculate the mass of the mountain.</para>
+      <para id="fs-id1900676">(b) Compare the mountain’s mass with that of Earth.</para>
+      <para id="fs-id2968649">(c) What is unreasonable about these results?</para>
+      <para id="fs-id1526884">(d) Which premises are unreasonable or inconsistent? (Note that accurate gravitational measurements can easily detect the effect of nearby mountains and variations in local geology.)</para>
+</problem>
+<solution id="eip-id1570835">
+    <para id="import-auto-id1560910">a) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>2.937</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>17</m:mtext></m:mrow></m:msup></m:mrow><m:mspace width="0.25em"/><m:mrow><m:mtext>kg</m:mtext></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{2 cdot "94"  times "10" rSup { size 8{"17"} } kg} {}</m:annotation></m:semantics></m:math></para><para id="eip-id2381992">b) <m:math><m:semantics><m:mrow><m:mrow><m:mrow><m:mrow><m:mrow><m:mn>4.91</m:mn></m:mrow><m:mo stretchy="false">×</m:mo><m:msup><m:mtext>10</m:mtext><m:mrow><m:mtext>–8</m:mtext></m:mrow></m:msup></m:mrow></m:mrow></m:mrow><m:mrow/></m:mrow><m:annotation encoding="StarMath 5.0"> size 12{4 cdot "92"  times "10" rSup { size 8{"-8"} } } {}</m:annotation></m:semantics></m:math></para><para id="import-auto-id3257325">of the Earth’s mass.</para>
+    <para id="import-auto-id2595290">c) The mass of the mountain and its fraction of the Earth’s mass are too great.</para>
+    <para id="import-auto-id3172592">d) The gravitational force assumed to be exerted by the mountain is too great.</para>
+          </solution></exercise>
+        </section>
+</content>
+    <glossary>
+        <definition id="import-auto-id2588692"><term>gravitational constant, <emphasis effect="italics">G</emphasis></term> <meaning id="fs-id2404370">a proportionality factor used in the equation for Newton’s universal law of gravitation; it is a universal constant—that is, it is thought to be the same everywhere in the universe</meaning></definition>
+        <definition id="import-auto-id1986508"><term>center of mass</term> <meaning id="fs-id3037377"> the point where the entire mass of an object can be thought to be concentrated</meaning></definition>
+        <definition id="import-auto-id2451531"><term>microgravity</term> <meaning id="fs-id2601919">an environment in which the apparent net acceleration of a body is small compared with that produced by Earth at its surface</meaning></definition>
+        <definition id="import-auto-id3402633"><term>Newton’s universal law of gravitation</term> <meaning id="fs-id3078072">every particle in the universe attracts every other particle with a force along a line joining them; the force is directly proportional to the product of their masses and inversely proportional to the square of the distance between them</meaning></definition>
+    </glossary>
+</document>

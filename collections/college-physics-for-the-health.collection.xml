@@ -1,0 +1,128 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col26735</md:content-id>
+    <md:title>College Physics for the Health</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>da6a1570-ea85-47f0-9ef1-7e00195fc75c</md:uuid>
+<md:slug>college-physics-for-the-health</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>INTRODUCTION: THE NATURE OF</md:title>
+      <col:content>
+        <col:module document="m72402"/>
+        <col:module document="m72392"/>
+        <col:module document="m72387"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>KINEMATICS</md:title>
+      <col:content>
+        <col:module document="m72122"/>
+        <col:module document="m72389"/>
+        <col:module document="m72390"/>
+        <col:module document="m72411"/>
+        <col:module document="m72412"/>
+        <col:module document="m72413"/>
+        <col:module document="m42125"/>
+        <col:module document="m42102"/>
+        <col:module document="m42104"/>
+        <col:module document="m42127"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>DYNAMICS: FORCE AND NEWTON'S LAWS OF MOTION</md:title>
+      <col:content>
+        <col:module document="m72847"/>
+        <col:module document="m72848"/>
+        <col:module document="m72849"/>
+        <col:module document="m72850"/>
+        <col:module document="m72851"/>
+        <col:module document="m73341"/>
+        <col:module document="m72852"/>
+        <col:module document="m73184"/>
+        <col:module document="m73272"/>
+        <col:module document="m73342"/>
+        <col:module document="m42170"/>
+        <col:module document="m42167"/>
+        <col:module document="m13544"/>
+        <col:module document="m38992"/>
+        <col:module document="m73343"/>
+        <col:module document="m73344"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>WORK, ENERGY, and POWER</md:title>
+      <col:content>
+        <col:module document="m75618"/>
+        <col:module document="m76066"/>
+        <col:module document="m76067"/>
+        <col:module document="m76068"/>
+        <col:module document="m76069"/>
+        <col:module document="m76070"/>
+        <col:module document="m55058"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>TEMPERATURE and PHASE CHANGES</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>Temperature</md:title>
+          <col:content>
+            <col:module document="m76449"/>
+            <col:module document="m76450"/>
+            <col:module document="m76451"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m76453"/>
+        <col:subcollection>
+          <md:title>Phase Changes and Latent Heat</md:title>
+          <col:content>
+            <col:module document="m76455"/>
+            <col:module document="m76456"/>
+          </col:content>
+        </col:subcollection>
+        <col:subcollection>
+          <md:title>Heat Transfer Methods</md:title>
+          <col:content>
+            <col:module document="m42228"/>
+            <col:module document="m42229"/>
+            <col:module document="m42230"/>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>FLUID AND PRESSURE</md:title>
+      <col:content>
+        <col:module document="m42185"/>
+        <col:module document="m42189"/>
+        <col:subcollection>
+          <md:title>Pascal's Principle</md:title>
+          <col:content>
+            <col:module document="m55212"/>
+            <col:module document="m42192"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m58356"/>
+        <col:module document="m42195"/>
+        <col:subcollection>
+          <md:title>Flow Rate, Laminar and turbulent Flow</md:title>
+          <col:content>
+            <col:module document="m42205"/>
+            <col:module document="m42209"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m76730"/>
+        <col:module document="m76731"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Appendix A</md:title>
+      <col:content>
+        <col:module document="m72395"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
