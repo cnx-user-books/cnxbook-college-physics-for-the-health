@@ -164,17 +164,17 @@
                             <m:mrow>
                               <m:mtable>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                
                                       <m:mrow>
                                         <m:mtext/>
                                       </m:mrow>
                             
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                                 <m:mtr>
-                                  <m:mrow>
+                                  <m:mtd>
                                     <m:mrow>
                                       <m:msub>
                                         <m:mi/>
@@ -198,7 +198,7 @@
                                       
                                     </m:msup>
                                     <m:mrow/>
-                                  </m:mrow>
+                                  </m:mtd>
                                 </m:mtr>
                               </m:mtable>
                               <m:mrow/>
